@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestRemoveDuplicates(t *testing.T) {
+func TestRemoveElement(t *testing.T) {
 	tables := []struct {
 		values         []int
 		removeNumber   int
