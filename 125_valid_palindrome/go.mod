@@ -1,4 +1,4 @@
-module github.com/tkaelbel/leetcode/347_top_k_frequent_elements
+module github.com/tkaelbel/leetcode/125_valid_palindrome
 
 go 1.19
 
